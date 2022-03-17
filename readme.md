@@ -1,22 +1,26 @@
-# Akihabara 65 v0.3
+# Akihabara 65 v0.4
 
 A 65% keyboard designed for JIS layout, with support for ANSI and ISO as well.
 
-![Akihabara 65 PCB](./Image/akihabara-65.png)
+![PCB Front](./Images/boardFront.png)
+![PCB Back](./Images/boardBack.png)
 
 ## Features
 
 - Designed for STM32F072, but should be compatible with other STM32 models
 - [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard)
-- QMK firmware; VIA support in progress
+- QMK & VIA in progress
 - PCB designed with KiCAD 6
 
 ## Layouts
 
-![Akihabara 65 Layouts](./Image/akihabara-65-layout.png)
+![Supported Layouts](./Images/supportedLayouts.png)
 
-## Known Issues
+The Akihabara 65 was designed for a JIS layout with a 4.5u spacebar, but it supports many layouts. Options include:
 
-- Holes for stabilizers are excessively tight
-- Right Shift and ANSI Enter stabilizers cannot be used simultaneously
-- SWD header pin pitch should be increased for ease of use
+- Standard or Stepped Caps Lock
+- Standard or Split Backspace
+- 2.75u or Split Right Shift (1.75u | 1u **OR** 1u | 1.75u)
+- ANSI or ISO/JIS Enter
+- 4.5u, 6.25u, or 7u Bottom Row
+
