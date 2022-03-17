@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Akihabara_Symbols)(type Legacy)(uri ${KIPRJMOD}/Libraries/Akihabara_Symbols.lib)(options "")(descr ""))
-)

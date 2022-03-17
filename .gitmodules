@@ -1,0 +1,3 @@
+[submodule "PCB/MX_Alps_Hybrid"]
+	path = PCB/MX_Alps_Hybrid
+	url = https://github.com/desuko-mirai/MX_Alps_Hybrid.git
