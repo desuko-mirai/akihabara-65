@@ -1060,9 +1060,9 @@
   )
 
   (no_connect (at 260.35 110.49) (uuid 0b63eb5c-2c8a-4792-8bff-4241ab4dac18))
-  (no_connect (at 260.35 123.19) (uuid 0b63eb5c-2c8a-4792-8bff-4241ab4dac18))
-  (no_connect (at 227.33 107.95) (uuid 0b63eb5c-2c8a-4792-8bff-4241ab4dac18))
-  (no_connect (at 227.33 105.41) (uuid 0b63eb5c-2c8a-4792-8bff-4241ab4dac18))
+  (no_connect (at 260.35 123.19) (uuid 0b63eb5c-2c8a-4792-8bff-4241ab4dac19))
+  (no_connect (at 227.33 107.95) (uuid 0b63eb5c-2c8a-4792-8bff-4241ab4dac1a))
+  (no_connect (at 227.33 105.41) (uuid 0b63eb5c-2c8a-4792-8bff-4241ab4dac1b))
   (no_connect (at 227.33 74.93) (uuid 3c8d03bf-f31d-4aa0-b8db-a227ffd7d8d6))
   (no_connect (at 227.33 80.01) (uuid 74f5ec08-7600-4a0b-a9e4-aae29f9ea08a))
   (no_connect (at 227.33 77.47) (uuid e70b6168-f98e-4322-bc55-500948ef7b77))
@@ -2264,7 +2264,7 @@
     (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061caab83)
     (property "Reference" "C8" (id 0) (at 175.26 49.53 90))
-    (property "Value" "15pF" (id 1) (at 175.26 52.07 90))
+    (property "Value" "22pF" (id 1) (at 175.26 52.07 90))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 175.26 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2282,7 +2282,7 @@
     (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061cabe2a)
     (property "Reference" "C9" (id 0) (at 175.26 69.85 90))
-    (property "Value" "15pF" (id 1) (at 175.26 67.31 90))
+    (property "Value" "22pF" (id 1) (at 175.26 67.31 90))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 175.26 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3070,10 +3070,10 @@
       (reference "C7") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-000061caab83"
-      (reference "C8") (unit 1) (value "15pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C8") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-000061cabe2a"
-      (reference "C9") (unit 1) (value "15pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C9") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-0000620cc0a7"
       (reference "C10") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")

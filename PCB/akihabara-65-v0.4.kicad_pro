@@ -397,8 +397,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "akihabara-65-v0.4.step",
+      "vrml": "akihabara-65-v0.4.wrl"
     },
     "page_layout_descr_file": ""
   },
