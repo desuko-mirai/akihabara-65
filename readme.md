@@ -10,11 +10,11 @@
 
 - 7° typing angle
 - Modified sandwich mount
-- 19 mm front height, 13.3 mm plate height @ bottom row, 22.6 mm plate height @ top row, all measurements with feet
+- [Effective Keyboard Height](https://github.com/Croktopus/effective-keyboard-height): 21.9 mm
 - [SKUF](https://github.com/Zambumon/SKUF) Feet
 - Approximately 1050 g with aluminium plate
 - Exposed plate edges
-- Plate features four rows of flex cuts, and the primary key cluster is separated from the plate save for four "mounting points" in an attempt to soften the harshness associated with sandwich mount
+- Plate features four rows of flex cuts and four "mounting points" in an attempt to soften the harshness associated with sandwich mount
 - 9.525 mm top and bottom bezels, 4.7625 mm side bezels
 - 339 x 116 x 31 mm
 
